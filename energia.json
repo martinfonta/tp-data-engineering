@@ -1,0 +1,23 @@
+[
+  {
+    "sit_codigo": "MI00112",
+    "total_energia": 3449,
+    "tecnologias": "G|L|U",
+    "macro": 1,
+    "provincia": "MISIONES"
+  },
+  {
+    "sit_codigo": "MI00145",
+    "total_energia": 2033,
+    "tecnologias": "G|L|U",
+    "macro": 1,
+    "provincia": "MISIONES"
+  },
+  {
+    "sit_codigo": "NQ00026",
+    "total_energia": 3330,
+    "tecnologias": "G|L|U",
+    "macro": 1,
+    "provincia": "NEUQUEN"
+  }
+]
